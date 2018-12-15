@@ -29,7 +29,7 @@
 #include <mav_trajectory_generation_ros/ros_conversions.h>
 #include <mav_trajectory_generation_ros/ros_visualization.h>
 #include <nav_msgs/Path.h>
-#include <mav_planning_msgs/PolynomialTrajectory4D.h>
+#include <planning_msgs/PolynomialTrajectory4D.h>
 #include <ros/callback_queue.h>
 #include <ros/ros.h>
 #include <std_srvs/Empty.h>
